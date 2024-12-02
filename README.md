@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 **Contact**
-- **Email**: your-email@example.com
+- **Email**: sunnysangle681@gmail.com
 - **LinkedIn**: [LinkedIn Profile] https://www.linkedin.com/in/sunny-sangle-a6172929a/
 - **GitHub**: [GitHub Profile] https://github.com/SunnySangle
 ```
